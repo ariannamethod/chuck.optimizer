@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="chuck.jpg" width="300" alt="Chuck — boot stomping the loss curve">
+</p>
+
 # Chuck & Lee
 
 **Chuck is an optimizer. Lee is a VLM. Chuck takes care of Lee.**
